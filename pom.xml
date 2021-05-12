@@ -17,7 +17,7 @@
 		<atguigu.spring.version>4.3.20.RELEASE</atguigu.spring.version>
 		
 		<!-- 声明属性，对SpringSecurity的版本进行统一管理 -->
-		<atguigu.spring.security.version>4.2.10.RELEASE</atguigu.spring.security.version>
+		<atguigu.spring.security.version>5.2.10.RELEASE</atguigu.spring.security.version>
 	</properties>
 
 	<dependencyManagement>
